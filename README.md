@@ -1,6 +1,6 @@
 # Nick The Sick
 
-## I'm a Developer @ AgileMD
+## I'm a Developer @ Tiptap
 
 I make stuff and things often
 
